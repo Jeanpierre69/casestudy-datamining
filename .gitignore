@@ -2,3 +2,5 @@
 /.vscode
 /venv
 /private
+/.claude
+/__pycache__
