@@ -1,2 +1,2 @@
-# Casestudy datamining
+# Predictieve en verklarende stabiliteit over tijd in kredietrisicomodellen: Een vergelijking van LR, XGB en MLP
 Een casestudy in datamining voorgedragen tot het bekomen van de graad van Master in de Handelswetenschappen: Management en Informatica. Er werd gebruik gemaakt van [Home Credit - Credit Risk Model Stability](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability) dataset. Het doel is om te voorspellen welke clienten de grootste kans hebben om hun lening niet terug te betalen.
